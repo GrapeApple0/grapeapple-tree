@@ -4,8 +4,6 @@
 - 👀 I’m interested in lego, robot and c#
 - 🌱 I’m currently learning arduino
 - ⚒ I’m making line follower robot
-- 📫 How to reach me budouapple.app@gmail.com
-- 💻 Please see my blog! link:blog.goo.ne.jp/grape-apple(Japanese only. sorry🙏)
 
 <!---
 grapeapple-tree/grapeapple-tree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
