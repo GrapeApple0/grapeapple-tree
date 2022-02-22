@@ -4,6 +4,7 @@
 - 👀 I’m interested in lego, robot and c#
 - 🌱 I’m currently learning arduino
 - ⚒ I’m making line follower robot
+- Please look for Twitter! id:GrapeApple0
 
 <!---
 grapeapple-tree/grapeapple-tree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
